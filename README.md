@@ -1,4 +1,4 @@
 # syncfusion
 
-install grid-svelte
+
 
