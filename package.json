@@ -22,3 +22,4 @@
     "start:dev": "sirv public --single --dev"
   }
 }
+
